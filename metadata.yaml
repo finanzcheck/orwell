@@ -1,0 +1,24 @@
+---
+id: orwell
+type: library
+
+name: Orwell
+product: Paas
+owners:
+  - team.catalyst@finanzcheck.de
+
+description: >
+  Validator package for Go
+authenticity: false
+availability: false
+confidentiality: company-internal
+integrity: false
+exposure:
+  - non-applicable
+
+lifecycle: ga
+
+vertical: finanzcheck
+tags:
+  - validation
+  - go
